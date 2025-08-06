@@ -105,5 +105,4 @@ Repositorio en GitHub con:
 
 Con la colaboración especial de: Santiago y Julián, el equipo dinamita 🗿
 
-===============================================================================
-*/
+
